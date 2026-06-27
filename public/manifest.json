@@ -1,0 +1,17 @@
+{
+  "name": "Clean Architecture Web App",
+  "short_name": "CleanApp",
+  "description": "A clean architecture React + TypeScript + Vite + Tailwind CSS PWA application",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0f172a",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "/icons/icon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ]
+}

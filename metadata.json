@@ -1,0 +1,6 @@
+{
+  "name": "Clean Architecture Web App",
+  "description": "A clean architecture React + TypeScript + Vite + Tailwind CSS PWA application with offline capabilities, state caching, and robust clean code practices.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
